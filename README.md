@@ -1,4 +1,4 @@
-👋 Hi, I’m @serhanr
+👋 Hi, I’m Serhan Eren from İstanbul
 <ul> 
 <li> available for: WEB APPS FOR BUSINESSES </li>
 <li> with: HTML/CSS/BS & PHP/SQL </li>
