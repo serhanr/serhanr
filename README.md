@@ -1,6 +1,6 @@
 👋 Hi, I’m @serhanr
 - for: WEB APPS FOR BUSINESS 
-- with: HTML5/CSS5, PHP/SQL, PYTHON
+- with: HTML/CSS/BS & PHP/SQL
 - at: serhanerenr@gmail.com
 - on: ig: serhanr
 
