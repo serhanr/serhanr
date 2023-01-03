@@ -1,8 +1,9 @@
 👋 Hi, I’m @serhanr
-<ul> available for: WEB APPS FOR BUSINESSES </li>
+<ul> 
+<li> available for: WEB APPS FOR BUSINESSES </li>
 <li> with: HTML/CSS/BS & PHP/SQL </li>
 <li> reachable via serhanerenr@gmail.com </li>
-  <li> on instagram as serhanr </li>
+<li> on instagram as serhanr </li>
 </ul>
 
 
